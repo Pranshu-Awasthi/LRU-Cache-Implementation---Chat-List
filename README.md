@@ -1,2 +1,2 @@
 # ChatList
-[Project Here](pranshu-awasthi.github.io)
+[Project Here](shorturl.at/lnGW5)
