@@ -4,12 +4,12 @@
 
 export { ChatHandler, chat_names}
 
-const chat_names = ["Virat Kohli", "Amit Tiwary", "MS Dhoni", "KL Rahul", "Suresh Raina", "Rohit Sharma", "Jasprit Bumrah"];
+const chat_names = ["Anubhav","Shivaji Sir","Pranshu","Ajay Sir","JIIT Office","Shamim Sir","Shivam","Monica Mam"];
 const chat_names_length = chat_names.length;
-const chat_msg = ["You'll be surprised to see my fielding today :P ",
-    "I'll give my best performance in today's match.",
-    "Will I be playing today aginst Australia ?",
-    "I want to win this game"];
+const chat_msg = ["What about the viva ?",
+    "It's going smooth.",
+    "It's a good project",
+    "Did you get vaccinated ?"];
 const chat_msg_length = chat_msg.length;
 const chat_img_length = 7;
 
