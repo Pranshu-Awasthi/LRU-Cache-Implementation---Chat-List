@@ -8,6 +8,12 @@ const chat_names = ["Anubhav","Shivaji Sir","Pranshu","Ajay Sir","JIIT Office","
 const chat_names_length = chat_names.length;
 const chat_msg = ["What about the viva ?",
     "It's going smooth.",
+    "Stay Safe !",
+    "Is there any case of Omicron yet ?",
+    "We must get this code running soon",
+    "The people have done it nicely",
+    "See you tonight at dinner",
+    "Let's go to Ladakh soon",
     "It's a good project",
     "Did you get vaccinated ?"];
 const chat_msg_length = chat_msg.length;
